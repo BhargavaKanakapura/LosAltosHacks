@@ -94,10 +94,7 @@ def summarise(inputs):
             outputs.append(i)
     return outputs
 
-
-'''
 print(get_scores(inputs))
 print(get_catagories(inputs))
 print(get_emotions(inputs))
-'''
 print(summarise(inputs))
